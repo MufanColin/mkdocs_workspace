@@ -1,3 +1,5 @@
 site_name: Colin Mufan's Wonderland
 theme:
   name: material
+  features:
+    - navigation.tabs
